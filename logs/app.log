@@ -1,0 +1,583 @@
+2025-03-23 02:00:19 [main] INFO  BaseClass - config.properties file loaded
+2025-03-23 02:00:23 [main] INFO  BaseClass - ChromeDriver initiated is created
+2025-03-23 02:00:30 [main] INFO  BaseClass - WebDriver initialozed and browser maximized
+2025-03-23 02:00:30 [main] INFO  ActionDriver - WebDriver instance is created
+2025-03-23 02:00:30 [main] INFO  BaseClass - ActionDriver instance is created
+2025-03-23 02:00:30 [main] TRACE BaseClass - This is a Trace Message
+2025-03-23 02:00:30 [main] DEBUG BaseClass - This is a Debug Message
+2025-03-23 02:00:30 [main] WARN  BaseClass - This is a Warn Message
+2025-03-23 02:00:30 [main] INFO  ActionDriver - Entered text :Holi
+2025-03-23 02:00:30 [main] INFO  ActionDriver - Entered text :Holika
+2025-03-23 02:00:31 [main] INFO  ActionDriver - Clicked an element
+2025-03-23 02:00:32 [main] INFO  ActionDriver - Texts are matching : Invalid credentials equals Invalid credentials
+2025-03-23 02:00:38 [main] INFO  BaseClass - ActionDriver instance is closed
+2025-03-23 02:00:38 [main] INFO  BaseClass - WebDriver instance is closed
+2025-03-23 02:00:40 [main] INFO  BaseClass - ChromeDriver initiated is created
+2025-03-23 02:00:46 [main] INFO  BaseClass - WebDriver initialozed and browser maximized
+2025-03-23 02:00:46 [main] INFO  ActionDriver - WebDriver instance is created
+2025-03-23 02:00:46 [main] INFO  BaseClass - ActionDriver instance is created
+2025-03-23 02:00:46 [main] TRACE BaseClass - This is a Trace Message
+2025-03-23 02:00:46 [main] DEBUG BaseClass - This is a Debug Message
+2025-03-23 02:00:46 [main] WARN  BaseClass - This is a Warn Message
+2025-03-23 02:00:46 [main] INFO  ActionDriver - Entered text :Admin
+2025-03-23 02:00:46 [main] INFO  ActionDriver - Entered text :admin1234
+2025-03-23 02:00:48 [main] INFO  ActionDriver - Clicked an element
+2025-03-23 02:01:55 [main] INFO  BaseClass - ActionDriver instance is closed
+2025-03-23 02:01:55 [main] INFO  BaseClass - WebDriver instance is closed
+2025-03-23 02:01:57 [main] INFO  BaseClass - ChromeDriver initiated is created
+2025-03-23 02:02:03 [main] INFO  BaseClass - WebDriver initialozed and browser maximized
+2025-03-23 02:02:03 [main] INFO  ActionDriver - WebDriver instance is created
+2025-03-23 02:02:03 [main] INFO  BaseClass - ActionDriver instance is created
+2025-03-23 02:02:03 [main] TRACE BaseClass - This is a Trace Message
+2025-03-23 02:02:03 [main] DEBUG BaseClass - This is a Debug Message
+2025-03-23 02:02:03 [main] WARN  BaseClass - This is a Warn Message
+2025-03-23 02:02:04 [main] INFO  ActionDriver - Entered text :Admin
+2025-03-23 02:02:04 [main] INFO  ActionDriver - Entered text :admin123
+2025-03-23 02:02:05 [main] INFO  ActionDriver - Clicked an element
+2025-03-23 02:02:06 [main] INFO  ActionDriver - Clicked an element
+2025-03-23 02:02:08 [main] INFO  ActionDriver - Clicked an element
+2025-03-23 02:02:15 [main] INFO  BaseClass - ActionDriver instance is closed
+2025-03-23 02:02:15 [main] INFO  BaseClass - WebDriver instance is closed
+2025-03-23 02:03:23 [main] INFO  BaseClass - config.properties file loaded
+2025-03-23 02:03:26 [main] INFO  BaseClass - ChromeDriver initiated is created
+2025-03-23 02:03:31 [main] INFO  BaseClass - WebDriver initialozed and browser maximized
+2025-03-23 02:03:31 [main] INFO  ActionDriver - WebDriver instance is created
+2025-03-23 02:03:31 [main] INFO  BaseClass - ActionDriver instance is created
+2025-03-23 02:03:31 [main] TRACE BaseClass - This is a Trace Message
+2025-03-23 02:03:31 [main] DEBUG BaseClass - This is a Debug Message
+2025-03-23 02:03:31 [main] WARN  BaseClass - This is a Warn Message
+2025-03-23 02:03:31 [main] INFO  ActionDriver - Entered text :Holi
+2025-03-23 02:03:31 [main] INFO  ActionDriver - Entered text :Holika
+2025-03-23 02:03:32 [main] INFO  ActionDriver - Clicked an element
+2025-03-23 02:03:33 [main] INFO  ActionDriver - Texts are matching : Invalid credentials equals Invalid credentials
+2025-03-23 02:03:39 [main] INFO  BaseClass - ActionDriver instance is closed
+2025-03-23 02:03:39 [main] INFO  BaseClass - WebDriver instance is closed
+2025-03-23 02:03:40 [main] INFO  BaseClass - ChromeDriver initiated is created
+2025-03-23 02:03:45 [main] INFO  BaseClass - WebDriver initialozed and browser maximized
+2025-03-23 02:03:45 [main] INFO  ActionDriver - WebDriver instance is created
+2025-03-23 02:03:45 [main] INFO  BaseClass - ActionDriver instance is created
+2025-03-23 02:03:45 [main] TRACE BaseClass - This is a Trace Message
+2025-03-23 02:03:45 [main] DEBUG BaseClass - This is a Debug Message
+2025-03-23 02:03:45 [main] WARN  BaseClass - This is a Warn Message
+2025-03-23 02:03:46 [main] INFO  ActionDriver - Entered text :Admin
+2025-03-23 02:03:46 [main] INFO  ActionDriver - Entered text :admin1234
+2025-03-23 02:03:46 [main] INFO  ActionDriver - Clicked an element
+2025-03-23 02:04:39 [main] INFO  BaseClass - config.properties file loaded
+2025-03-23 02:04:41 [main] INFO  BaseClass - ChromeDriver initiated is created
+2025-03-23 02:04:47 [main] INFO  BaseClass - WebDriver initialozed and browser maximized
+2025-03-23 02:04:47 [main] INFO  ActionDriver - WebDriver instance is created
+2025-03-23 02:04:47 [main] INFO  BaseClass - ActionDriver instance is created
+2025-03-23 02:04:47 [main] TRACE BaseClass - This is a Trace Message
+2025-03-23 02:04:47 [main] DEBUG BaseClass - This is a Debug Message
+2025-03-23 02:04:47 [main] WARN  BaseClass - This is a Warn Message
+2025-03-23 02:04:47 [main] INFO  ActionDriver - Entered text :Holi
+2025-03-23 02:04:47 [main] INFO  ActionDriver - Entered text :Holika
+2025-03-23 02:04:47 [main] INFO  ActionDriver - Clicked an element
+2025-03-23 02:04:49 [main] INFO  ActionDriver - Texts are matching : Invalid credentials equals Invalid credentials
+2025-03-23 02:04:54 [main] INFO  BaseClass - ActionDriver instance is closed
+2025-03-23 02:04:54 [main] INFO  BaseClass - WebDriver instance is closed
+2025-03-23 02:04:56 [main] INFO  BaseClass - ChromeDriver initiated is created
+2025-03-23 02:05:02 [main] INFO  BaseClass - WebDriver initialozed and browser maximized
+2025-03-23 02:05:02 [main] INFO  ActionDriver - WebDriver instance is created
+2025-03-23 02:05:02 [main] INFO  BaseClass - ActionDriver instance is created
+2025-03-23 02:05:02 [main] TRACE BaseClass - This is a Trace Message
+2025-03-23 02:05:02 [main] DEBUG BaseClass - This is a Debug Message
+2025-03-23 02:05:02 [main] WARN  BaseClass - This is a Warn Message
+2025-03-23 02:05:02 [main] INFO  ActionDriver - Entered text :Admin
+2025-03-23 02:05:03 [main] INFO  ActionDriver - Entered text :admin1234
+2025-03-23 02:05:04 [main] INFO  ActionDriver - Clicked an element
+2025-03-23 02:05:31 [main] INFO  BaseClass - config.properties file loaded
+2025-03-23 02:05:33 [main] INFO  BaseClass - ChromeDriver initiated is created
+2025-03-23 02:05:40 [main] INFO  BaseClass - WebDriver initialozed and browser maximized
+2025-03-23 02:05:40 [main] INFO  ActionDriver - WebDriver instance is created
+2025-03-23 02:05:40 [main] INFO  BaseClass - ActionDriver instance is created
+2025-03-23 02:05:40 [main] TRACE BaseClass - This is a Trace Message
+2025-03-23 02:05:40 [main] DEBUG BaseClass - This is a Debug Message
+2025-03-23 02:05:40 [main] WARN  BaseClass - This is a Warn Message
+2025-03-23 02:05:40 [main] INFO  ActionDriver - Entered text :Holi
+2025-03-23 02:05:40 [main] INFO  ActionDriver - Entered text :Holika
+2025-03-23 02:05:40 [main] INFO  ActionDriver - Clicked an element
+2025-03-23 02:05:42 [main] INFO  ActionDriver - Texts are matching : Invalid credentials equals Invalid credentials
+2025-03-23 02:05:47 [main] INFO  BaseClass - ActionDriver instance is closed
+2025-03-23 02:05:47 [main] INFO  BaseClass - WebDriver instance is closed
+2025-03-23 02:05:48 [main] INFO  BaseClass - ChromeDriver initiated is created
+2025-03-23 02:05:54 [main] INFO  BaseClass - WebDriver initialozed and browser maximized
+2025-03-23 02:05:54 [main] INFO  ActionDriver - WebDriver instance is created
+2025-03-23 02:05:54 [main] INFO  BaseClass - ActionDriver instance is created
+2025-03-23 02:05:54 [main] TRACE BaseClass - This is a Trace Message
+2025-03-23 02:05:54 [main] DEBUG BaseClass - This is a Debug Message
+2025-03-23 02:05:54 [main] WARN  BaseClass - This is a Warn Message
+2025-03-23 02:05:54 [main] INFO  ActionDriver - Entered text :Admin
+2025-03-23 02:05:54 [main] INFO  ActionDriver - Entered text :admin123
+2025-03-23 02:05:54 [main] INFO  ActionDriver - Clicked an element
+2025-03-23 02:05:56 [main] INFO  ActionDriver - Clicked an element
+2025-03-23 02:05:58 [main] INFO  ActionDriver - Clicked an element
+2025-03-23 02:06:03 [main] INFO  BaseClass - ActionDriver instance is closed
+2025-03-23 02:06:03 [main] INFO  BaseClass - WebDriver instance is closed
+2025-03-23 02:06:05 [main] INFO  BaseClass - ChromeDriver initiated is created
+2025-03-23 02:06:10 [main] INFO  BaseClass - WebDriver initialozed and browser maximized
+2025-03-23 02:06:10 [main] INFO  ActionDriver - WebDriver instance is created
+2025-03-23 02:06:10 [main] INFO  BaseClass - ActionDriver instance is created
+2025-03-23 02:06:10 [main] TRACE BaseClass - This is a Trace Message
+2025-03-23 02:06:10 [main] DEBUG BaseClass - This is a Debug Message
+2025-03-23 02:06:10 [main] WARN  BaseClass - This is a Warn Message
+2025-03-23 02:06:10 [main] INFO  ActionDriver - Entered text :Admin
+2025-03-23 02:06:10 [main] INFO  ActionDriver - Entered text :admin123
+2025-03-23 02:06:12 [main] INFO  ActionDriver - Clicked an element
+2025-03-23 02:06:13 [main] INFO  ActionDriver - Clicked an element
+2025-03-23 02:06:14 [main] INFO  ActionDriver - Clicked an element
+2025-03-23 02:06:20 [main] INFO  BaseClass - ActionDriver instance is closed
+2025-03-23 02:06:20 [main] INFO  BaseClass - WebDriver instance is closed
+2025-03-23 02:07:13 [main] INFO  BaseClass - config.properties file loaded
+2025-03-23 02:07:15 [main] INFO  BaseClass - ChromeDriver initiated is created
+2025-03-23 02:07:21 [main] INFO  BaseClass - WebDriver initialozed and browser maximized
+2025-03-23 02:07:21 [main] INFO  ActionDriver - WebDriver instance is created
+2025-03-23 02:07:21 [main] INFO  BaseClass - ActionDriver instance is created
+2025-03-23 02:07:21 [main] TRACE BaseClass - This is a Trace Message
+2025-03-23 02:07:21 [main] DEBUG BaseClass - This is a Debug Message
+2025-03-23 02:07:21 [main] WARN  BaseClass - This is a Warn Message
+2025-03-23 02:07:21 [main] INFO  ActionDriver - Entered text :Holi
+2025-03-23 02:07:22 [main] INFO  ActionDriver - Entered text :Holika
+2025-03-23 02:07:22 [main] INFO  ActionDriver - Clicked an element
+2025-03-23 02:07:24 [main] INFO  ActionDriver - Texts are matching : Invalid credentials equals Invalid credentials
+2025-03-23 02:07:29 [main] INFO  BaseClass - ActionDriver instance is closed
+2025-03-23 02:07:29 [main] INFO  BaseClass - WebDriver instance is closed
+2025-03-23 02:07:30 [main] INFO  BaseClass - ChromeDriver initiated is created
+2025-03-23 02:07:36 [main] INFO  BaseClass - WebDriver initialozed and browser maximized
+2025-03-23 02:07:36 [main] INFO  ActionDriver - WebDriver instance is created
+2025-03-23 02:07:36 [main] INFO  BaseClass - ActionDriver instance is created
+2025-03-23 02:07:36 [main] TRACE BaseClass - This is a Trace Message
+2025-03-23 02:07:36 [main] DEBUG BaseClass - This is a Debug Message
+2025-03-23 02:07:36 [main] WARN  BaseClass - This is a Warn Message
+2025-03-23 02:07:36 [main] INFO  ActionDriver - Entered text :Admin
+2025-03-23 02:07:36 [main] INFO  ActionDriver - Entered text :admin123
+2025-03-23 02:07:36 [main] INFO  ActionDriver - Clicked an element
+2025-03-23 02:07:38 [main] INFO  ActionDriver - Clicked an element
+2025-03-23 02:07:39 [main] INFO  ActionDriver - Clicked an element
+2025-03-23 02:07:45 [main] INFO  BaseClass - ActionDriver instance is closed
+2025-03-23 02:07:45 [main] INFO  BaseClass - WebDriver instance is closed
+2025-03-23 02:07:46 [main] INFO  BaseClass - ChromeDriver initiated is created
+2025-03-23 02:07:51 [main] INFO  BaseClass - WebDriver initialozed and browser maximized
+2025-03-23 02:07:51 [main] INFO  ActionDriver - WebDriver instance is created
+2025-03-23 02:07:51 [main] INFO  BaseClass - ActionDriver instance is created
+2025-03-23 02:07:51 [main] TRACE BaseClass - This is a Trace Message
+2025-03-23 02:07:51 [main] DEBUG BaseClass - This is a Debug Message
+2025-03-23 02:07:51 [main] WARN  BaseClass - This is a Warn Message
+2025-03-23 02:07:51 [main] INFO  ActionDriver - Entered text :Admin
+2025-03-23 02:07:52 [main] INFO  ActionDriver - Entered text :admin123
+2025-03-23 02:07:53 [main] INFO  ActionDriver - Clicked an element
+2025-03-23 02:07:54 [main] INFO  ActionDriver - Clicked an element
+2025-03-23 02:07:55 [main] INFO  ActionDriver - Clicked an element
+2025-03-23 02:08:01 [main] INFO  BaseClass - ActionDriver instance is closed
+2025-03-23 02:08:01 [main] INFO  BaseClass - WebDriver instance is closed
+2025-03-23 12:46:24 [main] INFO  BaseClass - config.properties file loaded
+2025-03-23 12:46:26 [main] INFO  BaseClass - ChromeDriver initiated is created
+2025-03-23 12:46:32 [main] INFO  BaseClass - WebDriver initialozed and browser maximized
+2025-03-23 12:46:32 [main] INFO  ActionDriver - WebDriver instance is created
+2025-03-23 12:46:32 [main] INFO  BaseClass - ActionDriver instance is created
+2025-03-23 12:46:32 [main] TRACE BaseClass - This is a Trace Message
+2025-03-23 12:46:32 [main] DEBUG BaseClass - This is a Debug Message
+2025-03-23 12:46:32 [main] WARN  BaseClass - This is a Warn Message
+2025-03-23 12:48:23 [main] INFO  BaseClass - config.properties file loaded
+2025-03-23 12:48:26 [main] INFO  BaseClass - ChromeDriver initiated is created
+2025-03-23 12:48:31 [main] INFO  BaseClass - WebDriver initialozed and browser maximized
+2025-03-23 12:48:31 [main] INFO  ActionDriver - WebDriver instance is created
+2025-03-23 12:48:31 [main] INFO  BaseClass - ActionDriver instance is created
+2025-03-23 12:48:31 [main] TRACE BaseClass - This is a Trace Message
+2025-03-23 12:48:31 [main] DEBUG BaseClass - This is a Debug Message
+2025-03-23 12:48:31 [main] WARN  BaseClass - This is a Warn Message
+2025-03-23 12:48:32 [main] INFO  ActionDriver - Clicked an element
+2025-03-23 12:48:32 [main] INFO  ActionDriver - Entered text :Admin
+2025-03-23 12:48:54 [main] INFO  ActionDriver - Clicked an element
+2025-03-23 12:48:54 [main] INFO  ActionDriver - Assert Passed
+2025-03-23 12:48:54 [main] INFO  BaseClass - ActionDriver instance is closed
+2025-03-23 12:48:54 [main] INFO  BaseClass - WebDriver instance is closed
+2025-03-23 12:49:46 [main] INFO  BaseClass - config.properties file loaded
+2025-03-23 12:49:48 [main] INFO  BaseClass - ChromeDriver initiated is created
+2025-03-23 12:49:53 [main] INFO  BaseClass - WebDriver initialozed and browser maximized
+2025-03-23 12:49:53 [main] INFO  ActionDriver - WebDriver instance is created
+2025-03-23 12:49:53 [main] INFO  BaseClass - ActionDriver instance is created
+2025-03-23 12:49:53 [main] TRACE BaseClass - This is a Trace Message
+2025-03-23 12:49:53 [main] DEBUG BaseClass - This is a Debug Message
+2025-03-23 12:49:53 [main] WARN  BaseClass - This is a Warn Message
+2025-03-23 12:49:54 [main] INFO  ActionDriver - Clicked an element
+2025-03-23 12:49:54 [main] INFO  ActionDriver - Entered text :Admin
+2025-03-23 12:49:55 [main] INFO  ActionDriver - Clicked an element
+2025-03-23 12:49:55 [main] INFO  ActionDriver - Assert Passed
+2025-03-23 12:49:55 [main] INFO  BaseClass - ActionDriver instance is closed
+2025-03-23 12:49:55 [main] INFO  BaseClass - WebDriver instance is closed
+2025-03-23 12:50:17 [main] INFO  BaseClass - config.properties file loaded
+2025-03-23 12:50:19 [main] INFO  BaseClass - ChromeDriver initiated is created
+2025-03-23 12:50:24 [main] INFO  BaseClass - WebDriver initialozed and browser maximized
+2025-03-23 12:50:24 [main] INFO  ActionDriver - WebDriver instance is created
+2025-03-23 12:50:24 [main] INFO  BaseClass - ActionDriver instance is created
+2025-03-23 12:50:24 [main] TRACE BaseClass - This is a Trace Message
+2025-03-23 12:50:24 [main] DEBUG BaseClass - This is a Debug Message
+2025-03-23 12:50:24 [main] WARN  BaseClass - This is a Warn Message
+2025-03-23 12:50:25 [main] INFO  ActionDriver - Clicked an element
+2025-03-23 12:50:25 [main] INFO  ActionDriver - Entered text :Admin
+2025-03-23 12:50:26 [main] INFO  ActionDriver - Clicked an element
+2025-03-23 12:50:26 [main] INFO  ActionDriver - Assert Passed
+2025-03-23 12:50:26 [main] INFO  BaseClass - ActionDriver instance is closed
+2025-03-23 12:50:26 [main] INFO  BaseClass - WebDriver instance is closed
+2025-03-23 12:50:31 [main] INFO  BaseClass - config.properties file loaded
+2025-03-23 12:50:33 [main] INFO  BaseClass - ChromeDriver initiated is created
+2025-03-23 12:50:38 [main] INFO  BaseClass - WebDriver initialozed and browser maximized
+2025-03-23 12:50:38 [main] INFO  ActionDriver - WebDriver instance is created
+2025-03-23 12:50:38 [main] INFO  BaseClass - ActionDriver instance is created
+2025-03-23 12:50:38 [main] TRACE BaseClass - This is a Trace Message
+2025-03-23 12:50:38 [main] DEBUG BaseClass - This is a Debug Message
+2025-03-23 12:50:38 [main] WARN  BaseClass - This is a Warn Message
+2025-03-23 12:50:39 [main] INFO  ActionDriver - Clicked an element
+2025-03-23 12:50:39 [main] INFO  ActionDriver - Entered text :Admin
+2025-03-23 12:50:39 [main] INFO  ActionDriver - Clicked an element
+2025-03-23 12:50:41 [main] INFO  BaseClass - ActionDriver instance is closed
+2025-03-23 12:50:41 [main] INFO  BaseClass - WebDriver instance is closed
+2025-03-23 12:56:57 [main] INFO  BaseClass - config.properties file loaded
+2025-03-23 12:56:59 [main] INFO  BaseClass - ChromeDriver initiated is created
+2025-03-23 12:57:04 [main] INFO  BaseClass - WebDriver initialozed and browser maximized
+2025-03-23 12:57:05 [main] INFO  ActionDriver - WebDriver instance is created
+2025-03-23 12:57:05 [main] INFO  BaseClass - ActionDriver instance is created
+2025-03-23 12:57:05 [main] TRACE BaseClass - This is a Trace Message
+2025-03-23 12:57:05 [main] DEBUG BaseClass - This is a Debug Message
+2025-03-23 12:57:05 [main] WARN  BaseClass - This is a Warn Message
+2025-03-23 12:57:05 [main] INFO  ActionDriver - Clicked an element
+2025-03-23 12:57:06 [main] INFO  ActionDriver - Entered text :Admin
+2025-03-23 12:57:06 [main] INFO  ActionDriver - Clicked an element
+2025-03-23 12:57:07 [main] INFO  BaseClass - ActionDriver instance is closed
+2025-03-23 12:57:07 [main] INFO  BaseClass - WebDriver instance is closed
+2025-03-23 12:57:46 [main] INFO  BaseClass - config.properties file loaded
+2025-03-23 12:57:48 [main] INFO  BaseClass - ChromeDriver initiated is created
+2025-03-23 12:57:53 [main] INFO  BaseClass - WebDriver initialozed and browser maximized
+2025-03-23 12:57:53 [main] INFO  ActionDriver - WebDriver instance is created
+2025-03-23 12:57:53 [main] INFO  BaseClass - ActionDriver instance is created
+2025-03-23 12:57:53 [main] TRACE BaseClass - This is a Trace Message
+2025-03-23 12:57:53 [main] DEBUG BaseClass - This is a Debug Message
+2025-03-23 12:57:53 [main] WARN  BaseClass - This is a Warn Message
+2025-03-23 12:57:53 [main] INFO  ActionDriver - Clicked an element
+2025-03-23 12:57:54 [main] INFO  ActionDriver - Entered text :Admin
+2025-03-23 12:57:54 [main] INFO  ActionDriver - Clicked an element
+2025-03-23 12:57:54 [main] INFO  ActionDriver - Assert Passed
+2025-03-23 12:57:55 [main] INFO  BaseClass - ActionDriver instance is closed
+2025-03-23 12:57:55 [main] INFO  BaseClass - WebDriver instance is closed
+2025-03-23 12:57:56 [main] INFO  BaseClass - ChromeDriver initiated is created
+2025-03-23 12:58:01 [main] INFO  BaseClass - WebDriver initialozed and browser maximized
+2025-03-23 12:58:01 [main] INFO  ActionDriver - WebDriver instance is created
+2025-03-23 12:58:01 [main] INFO  BaseClass - ActionDriver instance is created
+2025-03-23 12:58:01 [main] TRACE BaseClass - This is a Trace Message
+2025-03-23 12:58:01 [main] DEBUG BaseClass - This is a Debug Message
+2025-03-23 12:58:01 [main] WARN  BaseClass - This is a Warn Message
+2025-03-23 12:58:02 [main] INFO  ActionDriver - Clicked an element
+2025-03-23 12:58:02 [main] INFO  ActionDriver - Entered text :Admin
+2025-03-23 12:58:02 [main] INFO  ActionDriver - Clicked an element
+2025-03-23 12:58:04 [main] INFO  BaseClass - ActionDriver instance is closed
+2025-03-23 12:58:04 [main] INFO  BaseClass - WebDriver instance is closed
+2025-03-23 12:58:05 [main] INFO  BaseClass - ChromeDriver initiated is created
+2025-03-23 12:58:10 [main] INFO  BaseClass - WebDriver initialozed and browser maximized
+2025-03-23 12:58:10 [main] INFO  ActionDriver - WebDriver instance is created
+2025-03-23 12:58:10 [main] INFO  BaseClass - ActionDriver instance is created
+2025-03-23 12:58:10 [main] TRACE BaseClass - This is a Trace Message
+2025-03-23 12:58:10 [main] DEBUG BaseClass - This is a Debug Message
+2025-03-23 12:58:10 [main] WARN  BaseClass - This is a Warn Message
+2025-03-23 12:58:10 [main] INFO  ActionDriver - Entered text :Admin
+2025-03-23 12:58:10 [main] INFO  ActionDriver - Entered text :admin123
+2025-03-23 12:58:10 [main] INFO  ActionDriver - Clicked an element
+2025-03-23 12:58:12 [main] INFO  ActionDriver - Clicked an element
+2025-03-23 12:58:14 [main] INFO  ActionDriver - Clicked an element
+2025-03-23 12:58:20 [main] INFO  BaseClass - ActionDriver instance is closed
+2025-03-23 12:58:20 [main] INFO  BaseClass - WebDriver instance is closed
+2025-03-23 12:58:21 [main] INFO  BaseClass - ChromeDriver initiated is created
+2025-03-23 12:58:26 [main] INFO  BaseClass - WebDriver initialozed and browser maximized
+2025-03-23 12:58:26 [main] INFO  ActionDriver - WebDriver instance is created
+2025-03-23 12:58:26 [main] INFO  BaseClass - ActionDriver instance is created
+2025-03-23 12:58:26 [main] TRACE BaseClass - This is a Trace Message
+2025-03-23 12:58:26 [main] DEBUG BaseClass - This is a Debug Message
+2025-03-23 12:58:26 [main] WARN  BaseClass - This is a Warn Message
+2025-03-23 12:58:26 [main] INFO  ActionDriver - Entered text :Holi
+2025-03-23 12:58:26 [main] INFO  ActionDriver - Entered text :Holika
+2025-03-23 12:58:26 [main] INFO  ActionDriver - Clicked an element
+2025-03-23 12:58:27 [main] INFO  ActionDriver - Texts are matching : Invalid credentials equals Invalid credentials
+2025-03-23 12:58:34 [main] INFO  BaseClass - ActionDriver instance is closed
+2025-03-23 12:58:34 [main] INFO  BaseClass - WebDriver instance is closed
+2025-03-23 12:58:35 [main] INFO  BaseClass - ChromeDriver initiated is created
+2025-03-23 12:58:40 [main] INFO  BaseClass - WebDriver initialozed and browser maximized
+2025-03-23 12:58:40 [main] INFO  ActionDriver - WebDriver instance is created
+2025-03-23 12:58:40 [main] INFO  BaseClass - ActionDriver instance is created
+2025-03-23 12:58:40 [main] TRACE BaseClass - This is a Trace Message
+2025-03-23 12:58:40 [main] DEBUG BaseClass - This is a Debug Message
+2025-03-23 12:58:40 [main] WARN  BaseClass - This is a Warn Message
+2025-03-23 12:58:41 [main] INFO  ActionDriver - Entered text :Admin
+2025-03-23 12:58:41 [main] INFO  ActionDriver - Entered text :admin123
+2025-03-23 12:58:41 [main] INFO  ActionDriver - Clicked an element
+2025-03-23 12:58:43 [main] INFO  ActionDriver - Clicked an element
+2025-03-23 12:58:46 [main] INFO  ActionDriver - Clicked an element
+2025-03-23 12:58:51 [main] INFO  BaseClass - ActionDriver instance is closed
+2025-03-23 12:58:51 [main] INFO  BaseClass - WebDriver instance is closed
+2025-03-23 13:00:31 [main] INFO  BaseClass - config.properties file loaded
+2025-03-23 13:00:33 [main] INFO  BaseClass - ChromeDriver initiated is created
+2025-03-23 13:00:38 [main] INFO  BaseClass - WebDriver initialozed and browser maximized
+2025-03-23 13:00:38 [main] INFO  ActionDriver - WebDriver instance is created
+2025-03-23 13:00:38 [main] INFO  BaseClass - ActionDriver instance is created
+2025-03-23 13:00:38 [main] TRACE BaseClass - This is a Trace Message
+2025-03-23 13:00:38 [main] DEBUG BaseClass - This is a Debug Message
+2025-03-23 13:00:38 [main] WARN  BaseClass - This is a Warn Message
+2025-03-23 13:00:39 [main] INFO  ActionDriver - Clicked an element
+2025-03-23 13:00:39 [main] INFO  ActionDriver - Entered text :Admin
+2025-03-23 13:00:40 [main] INFO  ActionDriver - Clicked an element
+2025-03-23 13:00:40 [main] INFO  ActionDriver - Assert Passed
+2025-03-23 13:00:40 [main] INFO  BaseClass - ActionDriver instance is closed
+2025-03-23 13:00:40 [main] INFO  BaseClass - WebDriver instance is closed
+2025-03-23 13:00:41 [main] INFO  BaseClass - ChromeDriver initiated is created
+2025-03-23 13:00:47 [main] INFO  BaseClass - WebDriver initialozed and browser maximized
+2025-03-23 13:00:47 [main] INFO  ActionDriver - WebDriver instance is created
+2025-03-23 13:00:47 [main] INFO  BaseClass - ActionDriver instance is created
+2025-03-23 13:00:47 [main] TRACE BaseClass - This is a Trace Message
+2025-03-23 13:00:47 [main] DEBUG BaseClass - This is a Debug Message
+2025-03-23 13:00:47 [main] WARN  BaseClass - This is a Warn Message
+2025-03-23 13:00:47 [main] INFO  ActionDriver - Clicked an element
+2025-03-23 13:00:48 [main] INFO  ActionDriver - Entered text :Admin
+2025-03-23 13:00:48 [main] INFO  ActionDriver - Clicked an element
+2025-03-23 13:00:49 [main] INFO  BaseClass - ActionDriver instance is closed
+2025-03-23 13:00:49 [main] INFO  BaseClass - WebDriver instance is closed
+2025-03-23 13:00:50 [main] INFO  BaseClass - ChromeDriver initiated is created
+2025-03-23 13:00:55 [main] INFO  BaseClass - WebDriver initialozed and browser maximized
+2025-03-23 13:00:55 [main] INFO  ActionDriver - WebDriver instance is created
+2025-03-23 13:00:55 [main] INFO  BaseClass - ActionDriver instance is created
+2025-03-23 13:00:55 [main] TRACE BaseClass - This is a Trace Message
+2025-03-23 13:00:55 [main] DEBUG BaseClass - This is a Debug Message
+2025-03-23 13:00:55 [main] WARN  BaseClass - This is a Warn Message
+2025-03-23 13:00:56 [main] INFO  ActionDriver - Entered text :Admin
+2025-03-23 13:00:56 [main] INFO  ActionDriver - Entered text :admin123
+2025-03-23 13:00:57 [main] INFO  ActionDriver - Clicked an element
+2025-03-23 13:00:58 [main] INFO  ActionDriver - Clicked an element
+2025-03-23 13:01:00 [main] INFO  ActionDriver - Clicked an element
+2025-03-23 13:01:05 [main] INFO  BaseClass - ActionDriver instance is closed
+2025-03-23 13:01:05 [main] INFO  BaseClass - WebDriver instance is closed
+2025-03-23 13:01:06 [main] INFO  BaseClass - ChromeDriver initiated is created
+2025-03-23 13:01:12 [main] INFO  BaseClass - WebDriver initialozed and browser maximized
+2025-03-23 13:01:12 [main] INFO  ActionDriver - WebDriver instance is created
+2025-03-23 13:01:12 [main] INFO  BaseClass - ActionDriver instance is created
+2025-03-23 13:01:12 [main] TRACE BaseClass - This is a Trace Message
+2025-03-23 13:01:12 [main] DEBUG BaseClass - This is a Debug Message
+2025-03-23 13:01:12 [main] WARN  BaseClass - This is a Warn Message
+2025-03-23 13:01:12 [main] INFO  ActionDriver - Entered text :Holi
+2025-03-23 13:01:12 [main] INFO  ActionDriver - Entered text :Holika
+2025-03-23 13:01:12 [main] INFO  ActionDriver - Clicked an element
+2025-03-23 13:01:13 [main] INFO  ActionDriver - Texts are matching : Invalid credentials equals Invalid credentials
+2025-03-23 13:01:19 [main] INFO  BaseClass - ActionDriver instance is closed
+2025-03-23 13:01:19 [main] INFO  BaseClass - WebDriver instance is closed
+2025-03-23 13:01:20 [main] INFO  BaseClass - ChromeDriver initiated is created
+2025-03-23 13:01:25 [main] INFO  BaseClass - WebDriver initialozed and browser maximized
+2025-03-23 13:01:25 [main] INFO  ActionDriver - WebDriver instance is created
+2025-03-23 13:01:25 [main] INFO  BaseClass - ActionDriver instance is created
+2025-03-23 13:01:25 [main] TRACE BaseClass - This is a Trace Message
+2025-03-23 13:01:25 [main] DEBUG BaseClass - This is a Debug Message
+2025-03-23 13:01:25 [main] WARN  BaseClass - This is a Warn Message
+2025-03-23 13:01:25 [main] INFO  ActionDriver - Entered text :Admin
+2025-03-23 13:01:25 [main] INFO  ActionDriver - Entered text :admin123
+2025-03-23 13:01:27 [main] INFO  ActionDriver - Clicked an element
+2025-03-23 13:01:27 [main] INFO  ActionDriver - Clicked an element
+2025-03-23 13:01:29 [main] INFO  ActionDriver - Clicked an element
+2025-03-23 13:01:34 [main] INFO  BaseClass - ActionDriver instance is closed
+2025-03-23 13:01:34 [main] INFO  BaseClass - WebDriver instance is closed
+2025-03-23 13:08:27 [main] INFO  BaseClass - config.properties file loaded
+2025-03-23 13:08:29 [main] INFO  BaseClass - ChromeDriver initiated is created
+2025-03-23 13:08:35 [main] INFO  BaseClass - WebDriver initialozed and browser maximized
+2025-03-23 13:08:35 [main] INFO  ActionDriver - WebDriver instance is created
+2025-03-23 13:08:35 [main] INFO  BaseClass - ActionDriver instance is created
+2025-03-23 13:08:35 [main] TRACE BaseClass - This is a Trace Message
+2025-03-23 13:08:35 [main] DEBUG BaseClass - This is a Debug Message
+2025-03-23 13:08:35 [main] WARN  BaseClass - This is a Warn Message
+2025-03-23 13:08:36 [main] INFO  ActionDriver - Clicked an element
+2025-03-23 13:08:36 [main] INFO  ActionDriver - Entered text :Admin
+2025-03-23 13:08:37 [main] INFO  ActionDriver - Clicked an element
+2025-03-23 13:08:37 [main] INFO  ActionDriver - Assert Passed
+2025-03-23 13:08:37 [main] INFO  BaseClass - ActionDriver instance is closed
+2025-03-23 13:08:37 [main] INFO  BaseClass - WebDriver instance is closed
+2025-03-23 13:08:38 [main] INFO  BaseClass - ChromeDriver initiated is created
+2025-03-23 13:08:43 [main] INFO  BaseClass - WebDriver initialozed and browser maximized
+2025-03-23 13:08:43 [main] INFO  ActionDriver - WebDriver instance is created
+2025-03-23 13:08:43 [main] INFO  BaseClass - ActionDriver instance is created
+2025-03-23 13:08:43 [main] TRACE BaseClass - This is a Trace Message
+2025-03-23 13:08:43 [main] DEBUG BaseClass - This is a Debug Message
+2025-03-23 13:08:43 [main] WARN  BaseClass - This is a Warn Message
+2025-03-23 13:08:44 [main] INFO  ActionDriver - Clicked an element
+2025-03-23 13:08:44 [main] INFO  ActionDriver - Entered text :Admin
+2025-03-23 13:08:44 [main] INFO  ActionDriver - Clicked an element
+2025-03-23 13:08:46 [main] INFO  BaseClass - ActionDriver instance is closed
+2025-03-23 13:08:46 [main] INFO  BaseClass - WebDriver instance is closed
+2025-03-23 13:08:47 [main] INFO  BaseClass - ChromeDriver initiated is created
+2025-03-23 13:08:52 [main] INFO  BaseClass - WebDriver initialozed and browser maximized
+2025-03-23 13:08:52 [main] INFO  ActionDriver - WebDriver instance is created
+2025-03-23 13:08:52 [main] INFO  BaseClass - ActionDriver instance is created
+2025-03-23 13:08:52 [main] TRACE BaseClass - This is a Trace Message
+2025-03-23 13:08:52 [main] DEBUG BaseClass - This is a Debug Message
+2025-03-23 13:08:52 [main] WARN  BaseClass - This is a Warn Message
+2025-03-23 13:08:52 [main] INFO  ActionDriver - Entered text :Admin
+2025-03-23 13:08:52 [main] INFO  ActionDriver - Entered text :admin123
+2025-03-23 13:08:53 [main] INFO  ActionDriver - Clicked an element
+2025-03-23 13:08:54 [main] INFO  ActionDriver - Clicked an element
+2025-03-23 13:08:56 [main] INFO  ActionDriver - Clicked an element
+2025-03-23 13:09:01 [main] INFO  BaseClass - ActionDriver instance is closed
+2025-03-23 13:09:01 [main] INFO  BaseClass - WebDriver instance is closed
+2025-03-23 13:09:02 [main] INFO  BaseClass - ChromeDriver initiated is created
+2025-03-23 13:09:07 [main] INFO  BaseClass - WebDriver initialozed and browser maximized
+2025-03-23 13:09:07 [main] INFO  ActionDriver - WebDriver instance is created
+2025-03-23 13:09:07 [main] INFO  BaseClass - ActionDriver instance is created
+2025-03-23 13:09:07 [main] TRACE BaseClass - This is a Trace Message
+2025-03-23 13:09:07 [main] DEBUG BaseClass - This is a Debug Message
+2025-03-23 13:09:07 [main] WARN  BaseClass - This is a Warn Message
+2025-03-23 13:09:07 [main] INFO  ActionDriver - Entered text :Holi
+2025-03-23 13:09:08 [main] INFO  ActionDriver - Entered text :Holika
+2025-03-23 13:09:08 [main] INFO  ActionDriver - Clicked an element
+2025-03-23 13:09:09 [main] INFO  ActionDriver - Texts are matching : Invalid credentials equals Invalid credentials
+2025-03-23 13:09:14 [main] INFO  BaseClass - ActionDriver instance is closed
+2025-03-23 13:09:14 [main] INFO  BaseClass - WebDriver instance is closed
+2025-03-23 13:09:15 [main] INFO  BaseClass - ChromeDriver initiated is created
+2025-03-23 13:09:20 [main] INFO  BaseClass - WebDriver initialozed and browser maximized
+2025-03-23 13:09:20 [main] INFO  ActionDriver - WebDriver instance is created
+2025-03-23 13:09:20 [main] INFO  BaseClass - ActionDriver instance is created
+2025-03-23 13:09:20 [main] TRACE BaseClass - This is a Trace Message
+2025-03-23 13:09:20 [main] DEBUG BaseClass - This is a Debug Message
+2025-03-23 13:09:20 [main] WARN  BaseClass - This is a Warn Message
+2025-03-23 13:09:20 [main] INFO  ActionDriver - Entered text :Admin
+2025-03-23 13:09:20 [main] INFO  ActionDriver - Entered text :admin123
+2025-03-23 13:09:22 [main] INFO  ActionDriver - Clicked an element
+2025-03-23 13:09:22 [main] INFO  ActionDriver - Clicked an element
+2025-03-23 13:09:24 [main] INFO  ActionDriver - Clicked an element
+2025-03-23 13:09:29 [main] INFO  BaseClass - ActionDriver instance is closed
+2025-03-23 13:09:29 [main] INFO  BaseClass - WebDriver instance is closed
+2025-03-23 13:11:02 [main] INFO  BaseClass - config.properties file loaded
+2025-03-23 13:11:04 [main] INFO  BaseClass - ChromeDriver initiated is created
+2025-03-23 13:11:10 [main] INFO  BaseClass - WebDriver initialozed and browser maximized
+2025-03-23 13:11:10 [main] INFO  ActionDriver - WebDriver instance is created
+2025-03-23 13:11:10 [main] INFO  BaseClass - ActionDriver instance is created
+2025-03-23 13:11:10 [main] TRACE BaseClass - This is a Trace Message
+2025-03-23 13:11:10 [main] DEBUG BaseClass - This is a Debug Message
+2025-03-23 13:11:10 [main] WARN  BaseClass - This is a Warn Message
+2025-03-23 13:11:10 [main] INFO  ActionDriver - Clicked an element
+2025-03-23 13:11:11 [main] INFO  ActionDriver - Entered text :Admin
+2025-03-23 13:11:11 [main] INFO  ActionDriver - Clicked an element
+2025-03-23 13:11:11 [main] INFO  ActionDriver - Assert Passed
+2025-03-23 13:11:12 [main] INFO  BaseClass - ActionDriver instance is closed
+2025-03-23 13:11:12 [main] INFO  BaseClass - WebDriver instance is closed
+2025-03-23 13:11:13 [main] INFO  BaseClass - ChromeDriver initiated is created
+2025-03-23 13:11:18 [main] INFO  BaseClass - WebDriver initialozed and browser maximized
+2025-03-23 13:11:18 [main] INFO  ActionDriver - WebDriver instance is created
+2025-03-23 13:11:18 [main] INFO  BaseClass - ActionDriver instance is created
+2025-03-23 13:11:18 [main] TRACE BaseClass - This is a Trace Message
+2025-03-23 13:11:18 [main] DEBUG BaseClass - This is a Debug Message
+2025-03-23 13:11:18 [main] WARN  BaseClass - This is a Warn Message
+2025-03-23 13:11:18 [main] INFO  ActionDriver - Clicked an element
+2025-03-23 13:11:19 [main] INFO  ActionDriver - Entered text :Admin
+2025-03-23 13:11:19 [main] INFO  ActionDriver - Clicked an element
+2025-03-23 13:11:20 [main] INFO  BaseClass - ActionDriver instance is closed
+2025-03-23 13:11:20 [main] INFO  BaseClass - WebDriver instance is closed
+2025-03-23 13:11:21 [main] INFO  BaseClass - ChromeDriver initiated is created
+2025-03-23 13:11:27 [main] INFO  BaseClass - WebDriver initialozed and browser maximized
+2025-03-23 13:11:27 [main] INFO  ActionDriver - WebDriver instance is created
+2025-03-23 13:11:27 [main] INFO  BaseClass - ActionDriver instance is created
+2025-03-23 13:11:27 [main] TRACE BaseClass - This is a Trace Message
+2025-03-23 13:11:27 [main] DEBUG BaseClass - This is a Debug Message
+2025-03-23 13:11:27 [main] WARN  BaseClass - This is a Warn Message
+2025-03-23 13:11:27 [main] INFO  ActionDriver - Entered text :Admin
+2025-03-23 13:11:27 [main] INFO  ActionDriver - Entered text :admin123
+2025-03-23 13:11:27 [main] INFO  ActionDriver - Clicked an element
+2025-03-23 13:11:29 [main] INFO  ActionDriver - Clicked an element
+2025-03-23 13:11:30 [main] INFO  ActionDriver - Clicked an element
+2025-03-23 13:11:35 [main] INFO  BaseClass - ActionDriver instance is closed
+2025-03-23 13:11:35 [main] INFO  BaseClass - WebDriver instance is closed
+2025-03-23 13:11:37 [main] INFO  BaseClass - ChromeDriver initiated is created
+2025-03-23 13:11:42 [main] INFO  BaseClass - WebDriver initialozed and browser maximized
+2025-03-23 13:11:42 [main] INFO  ActionDriver - WebDriver instance is created
+2025-03-23 13:11:42 [main] INFO  BaseClass - ActionDriver instance is created
+2025-03-23 13:11:42 [main] TRACE BaseClass - This is a Trace Message
+2025-03-23 13:11:42 [main] DEBUG BaseClass - This is a Debug Message
+2025-03-23 13:11:42 [main] WARN  BaseClass - This is a Warn Message
+2025-03-23 13:11:42 [main] INFO  ActionDriver - Entered text :Holi
+2025-03-23 13:11:42 [main] INFO  ActionDriver - Entered text :Holika
+2025-03-23 13:11:43 [main] INFO  ActionDriver - Clicked an element
+2025-03-23 13:11:44 [main] INFO  ActionDriver - Texts are matching : Invalid credentials equals Invalid credentials
+2025-03-23 13:11:49 [main] INFO  BaseClass - ActionDriver instance is closed
+2025-03-23 13:11:49 [main] INFO  BaseClass - WebDriver instance is closed
+2025-03-23 13:11:50 [main] INFO  BaseClass - ChromeDriver initiated is created
+2025-03-23 13:11:55 [main] INFO  BaseClass - WebDriver initialozed and browser maximized
+2025-03-23 13:11:55 [main] INFO  ActionDriver - WebDriver instance is created
+2025-03-23 13:11:55 [main] INFO  BaseClass - ActionDriver instance is created
+2025-03-23 13:11:55 [main] TRACE BaseClass - This is a Trace Message
+2025-03-23 13:11:55 [main] DEBUG BaseClass - This is a Debug Message
+2025-03-23 13:11:55 [main] WARN  BaseClass - This is a Warn Message
+2025-03-23 13:11:55 [main] INFO  ActionDriver - Entered text :Admin
+2025-03-23 13:11:55 [main] INFO  ActionDriver - Entered text :admin123
+2025-03-23 13:11:55 [main] INFO  ActionDriver - Clicked an element
+2025-03-23 13:11:57 [main] INFO  ActionDriver - Clicked an element
+2025-03-23 13:11:58 [main] INFO  ActionDriver - Clicked an element
+2025-03-23 13:12:04 [main] INFO  BaseClass - ActionDriver instance is closed
+2025-03-23 13:12:04 [main] INFO  BaseClass - WebDriver instance is closed
+2025-03-23 13:12:32 [main] INFO  BaseClass - config.properties file loaded
+2025-03-23 13:12:33 [main] INFO  BaseClass - ChromeDriver initiated is created
+2025-03-23 13:12:39 [main] INFO  BaseClass - WebDriver initialozed and browser maximized
+2025-03-23 13:12:39 [main] INFO  ActionDriver - WebDriver instance is created
+2025-03-23 13:12:39 [main] INFO  BaseClass - ActionDriver instance is created
+2025-03-23 13:12:39 [main] TRACE BaseClass - This is a Trace Message
+2025-03-23 13:12:39 [main] DEBUG BaseClass - This is a Debug Message
+2025-03-23 13:12:39 [main] WARN  BaseClass - This is a Warn Message
+2025-03-23 13:12:39 [main] INFO  ActionDriver - Clicked an element
+2025-03-23 13:12:40 [main] INFO  ActionDriver - Entered text :Admin
+2025-03-23 13:12:40 [main] INFO  ActionDriver - Clicked an element
+2025-03-23 13:12:40 [main] INFO  ActionDriver - Assert Passed
+2025-03-23 13:12:41 [main] INFO  BaseClass - ActionDriver instance is closed
+2025-03-23 13:12:41 [main] INFO  BaseClass - WebDriver instance is closed
+2025-03-23 13:12:42 [main] INFO  BaseClass - ChromeDriver initiated is created
+2025-03-23 13:12:47 [main] INFO  BaseClass - WebDriver initialozed and browser maximized
+2025-03-23 13:12:47 [main] INFO  ActionDriver - WebDriver instance is created
+2025-03-23 13:12:47 [main] INFO  BaseClass - ActionDriver instance is created
+2025-03-23 13:12:47 [main] TRACE BaseClass - This is a Trace Message
+2025-03-23 13:12:47 [main] DEBUG BaseClass - This is a Debug Message
+2025-03-23 13:12:47 [main] WARN  BaseClass - This is a Warn Message
+2025-03-23 13:12:47 [main] INFO  ActionDriver - Clicked an element
+2025-03-23 13:12:48 [main] INFO  ActionDriver - Entered text :Admin
+2025-03-23 13:12:48 [main] INFO  ActionDriver - Clicked an element
+2025-03-23 13:12:49 [main] INFO  BaseClass - ActionDriver instance is closed
+2025-03-23 13:12:49 [main] INFO  BaseClass - WebDriver instance is closed
+2025-03-23 13:12:50 [main] INFO  BaseClass - ChromeDriver initiated is created
+2025-03-23 13:12:56 [main] INFO  BaseClass - WebDriver initialozed and browser maximized
+2025-03-23 13:12:56 [main] INFO  ActionDriver - WebDriver instance is created
+2025-03-23 13:12:56 [main] INFO  BaseClass - ActionDriver instance is created
+2025-03-23 13:12:56 [main] TRACE BaseClass - This is a Trace Message
+2025-03-23 13:12:56 [main] DEBUG BaseClass - This is a Debug Message
+2025-03-23 13:12:56 [main] WARN  BaseClass - This is a Warn Message
+2025-03-23 13:12:56 [main] INFO  ActionDriver - Entered text :Admin
+2025-03-23 13:12:56 [main] INFO  ActionDriver - Entered text :admin123
+2025-03-23 13:12:56 [main] INFO  ActionDriver - Clicked an element
+2025-03-23 13:12:58 [main] INFO  ActionDriver - Clicked an element
+2025-03-23 13:13:00 [main] INFO  ActionDriver - Clicked an element
+2025-03-23 13:13:05 [main] INFO  BaseClass - ActionDriver instance is closed
+2025-03-23 13:13:05 [main] INFO  BaseClass - WebDriver instance is closed
+2025-03-23 13:13:06 [main] INFO  BaseClass - ChromeDriver initiated is created
+2025-03-23 13:13:11 [main] INFO  BaseClass - WebDriver initialozed and browser maximized
+2025-03-23 13:13:11 [main] INFO  ActionDriver - WebDriver instance is created
+2025-03-23 13:13:11 [main] INFO  BaseClass - ActionDriver instance is created
+2025-03-23 13:13:11 [main] TRACE BaseClass - This is a Trace Message
+2025-03-23 13:13:11 [main] DEBUG BaseClass - This is a Debug Message
+2025-03-23 13:13:11 [main] WARN  BaseClass - This is a Warn Message
+2025-03-23 13:13:11 [main] INFO  ActionDriver - Entered text :Holi
+2025-03-23 13:13:11 [main] INFO  ActionDriver - Entered text :Holika
+2025-03-23 13:13:12 [main] INFO  ActionDriver - Clicked an element
+2025-03-23 13:13:13 [main] INFO  ActionDriver - Texts are matching : Invalid credentials equals Invalid credentials
+2025-03-23 13:13:19 [main] INFO  BaseClass - ActionDriver instance is closed
+2025-03-23 13:13:19 [main] INFO  BaseClass - WebDriver instance is closed
+2025-03-23 13:13:20 [main] INFO  BaseClass - ChromeDriver initiated is created
+2025-03-23 13:13:26 [main] INFO  BaseClass - WebDriver initialozed and browser maximized
+2025-03-23 13:13:26 [main] INFO  ActionDriver - WebDriver instance is created
+2025-03-23 13:13:26 [main] INFO  BaseClass - ActionDriver instance is created
+2025-03-23 13:13:26 [main] TRACE BaseClass - This is a Trace Message
+2025-03-23 13:13:26 [main] DEBUG BaseClass - This is a Debug Message
+2025-03-23 13:13:26 [main] WARN  BaseClass - This is a Warn Message
+2025-03-23 13:13:26 [main] INFO  ActionDriver - Entered text :Admin
+2025-03-23 13:13:26 [main] INFO  ActionDriver - Entered text :admin123
+2025-03-23 13:13:27 [main] INFO  ActionDriver - Clicked an element
+2025-03-23 13:13:28 [main] INFO  ActionDriver - Clicked an element
+2025-03-23 13:13:31 [main] INFO  ActionDriver - Clicked an element
+2025-03-23 13:13:36 [main] INFO  BaseClass - ActionDriver instance is closed
+2025-03-23 13:13:36 [main] INFO  BaseClass - WebDriver instance is closed

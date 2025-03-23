@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-03-23T13:12:32 IST" name="OrangeHRMSuite" finished-at="2025-03-23T13:13:36 IST" duration-ms="64139">
+    <groups>
+    </groups>
+    <test started-at="2025-03-23T13:12:32 IST" name="OrangeHRMTest" finished-at="2025-03-23T13:13:36 IST" duration-ms="64139">
+      <class name="com.orangeHRMFramework.test.LoginPageTest">
+        <test-method is-config="true" signature="loadConfig()[pri:0, instance:com.orangeHRMFramework.test.LoginPageTest@2cc3ad05]" started-at="2025-03-23T13:12:32 IST" name="loadConfig" finished-at="2025-03-23T13:12:32 IST" duration-ms="21" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadConfig -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.orangeHRMFramework.test.LoginPageTest@2cc3ad05]" started-at="2025-03-23T13:12:32 IST" name="setup" finished-at="2025-03-23T13:12:39 IST" duration-ms="7061" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="beforeTestMethod()[pri:0, instance:com.orangeHRMFramework.test.LoginPageTest@2cc3ad05]" started-at="2025-03-23T13:12:39 IST" name="beforeTestMethod" finished-at="2025-03-23T13:12:39 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTestMethod -->
+        <test-method signature="forgotCancel()[pri:0, instance:com.orangeHRMFramework.test.LoginPageTest@2cc3ad05]" started-at="2025-03-23T13:12:39 IST" name="forgotCancel" finished-at="2025-03-23T13:12:40 IST" duration-ms="1606" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- forgotCancel -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.orangeHRMFramework.test.LoginPageTest@2cc3ad05]" started-at="2025-03-23T13:12:40 IST" name="tearDown" finished-at="2025-03-23T13:12:41 IST" duration-ms="221" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.orangeHRMFramework.test.LoginPageTest@2cc3ad05]" started-at="2025-03-23T13:12:41 IST" name="setup" finished-at="2025-03-23T13:12:47 IST" duration-ms="6267" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="beforeTestMethod()[pri:0, instance:com.orangeHRMFramework.test.LoginPageTest@2cc3ad05]" started-at="2025-03-23T13:12:47 IST" name="beforeTestMethod" finished-at="2025-03-23T13:12:47 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTestMethod -->
+        <test-method signature="forgotSuccess()[pri:0, instance:com.orangeHRMFramework.test.LoginPageTest@2cc3ad05]" started-at="2025-03-23T13:12:47 IST" name="forgotSuccess" finished-at="2025-03-23T13:12:49 IST" duration-ms="2381" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- forgotSuccess -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.orangeHRMFramework.test.LoginPageTest@2cc3ad05]" started-at="2025-03-23T13:12:49 IST" name="tearDown" finished-at="2025-03-23T13:12:49 IST" duration-ms="169" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.orangeHRMFramework.test.LoginPageTest@2cc3ad05]" started-at="2025-03-23T13:12:49 IST" name="setup" finished-at="2025-03-23T13:12:56 IST" duration-ms="6587" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="homePageTest()[pri:0, instance:com.orangeHRMFramework.test.LoginPageTest@2cc3ad05]" started-at="2025-03-23T13:12:56 IST" name="homePageTest" finished-at="2025-03-23T13:13:05 IST" duration-ms="8603" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePageTest -->
+        <test-method is-config="true" signature="beforeTestMethod()[pri:0, instance:com.orangeHRMFramework.test.LoginPageTest@2cc3ad05]" started-at="2025-03-23T13:12:56 IST" name="beforeTestMethod" finished-at="2025-03-23T13:12:56 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTestMethod -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.orangeHRMFramework.test.LoginPageTest@2cc3ad05]" started-at="2025-03-23T13:13:05 IST" name="tearDown" finished-at="2025-03-23T13:13:05 IST" duration-ms="201" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.orangeHRMFramework.test.LoginPageTest@2cc3ad05]" started-at="2025-03-23T13:13:05 IST" name="setup" finished-at="2025-03-23T13:13:11 IST" duration-ms="6229" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="beforeTestMethod()[pri:0, instance:com.orangeHRMFramework.test.LoginPageTest@2cc3ad05]" started-at="2025-03-23T13:13:11 IST" name="beforeTestMethod" finished-at="2025-03-23T13:13:11 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTestMethod -->
+        <test-method signature="invalidLoginTest()[pri:0, instance:com.orangeHRMFramework.test.LoginPageTest@2cc3ad05]" started-at="2025-03-23T13:13:11 IST" name="invalidLoginTest" finished-at="2025-03-23T13:13:18 IST" duration-ms="6684" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidLoginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.orangeHRMFramework.test.LoginPageTest@2cc3ad05]" started-at="2025-03-23T13:13:18 IST" name="tearDown" finished-at="2025-03-23T13:13:19 IST" duration-ms="1704" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.orangeHRMFramework.test.LoginPageTest@2cc3ad05]" started-at="2025-03-23T13:13:19 IST" name="setup" finished-at="2025-03-23T13:13:26 IST" duration-ms="6176" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="beforeTestMethod()[pri:0, instance:com.orangeHRMFramework.test.LoginPageTest@2cc3ad05]" started-at="2025-03-23T13:13:26 IST" name="beforeTestMethod" finished-at="2025-03-23T13:13:26 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTestMethod -->
+        <test-method signature="validLoginTest()[pri:1, instance:com.orangeHRMFramework.test.LoginPageTest@2cc3ad05]" started-at="2025-03-23T13:13:26 IST" name="validLoginTest" finished-at="2025-03-23T13:13:36 IST" duration-ms="9995" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validLoginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.orangeHRMFramework.test.LoginPageTest@2cc3ad05]" started-at="2025-03-23T13:13:36 IST" name="tearDown" finished-at="2025-03-23T13:13:36 IST" duration-ms="190" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.orangeHRMFramework.test.LoginPageTest -->
+    </test> <!-- OrangeHRMTest -->
+  </suite> <!-- OrangeHRMSuite -->
+</testng-results>

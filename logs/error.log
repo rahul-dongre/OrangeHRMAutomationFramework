@@ -1,0 +1,95 @@
+2025-03-23 02:00:30 [main] ERROR BaseClass - This is a Error Message
+2025-03-23 02:00:46 [main] ERROR BaseClass - This is a Error Message
+2025-03-23 02:01:09 [main] ERROR ActionDriver - Element is not clickable :- Expected condition failed: waiting for element to be clickable: By.xpath: //span[@class='oxd-userdropdown-tab'] (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.165, chrome: {chromedriverVersion: 134.0.6998.165 (fd886e2cb29..., userDataDir: C:\Users\acer\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53732}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53732/devtoo..., se:cdpVersion: 134.0.6998.165, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 00d83a9e81ce553d57160da76674774e
+2025-03-23 02:01:19 [main] ERROR ActionDriver - Unable to click element :- no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='oxd-userdropdown-tab']"}
+  (Session info: chrome=134.0.6998.165)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [00d83a9e81ce553d57160da76674774e, findElement {value=//span[@class='oxd-userdropdown-tab'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.165, chrome: {chromedriverVersion: 134.0.6998.165 (fd886e2cb29..., userDataDir: C:\Users\acer\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53732}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53732/devtoo..., se:cdpVersion: 134.0.6998.165, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 00d83a9e81ce553d57160da76674774e
+2025-03-23 02:01:39 [main] ERROR ActionDriver - Element is not clickable :- Expected condition failed: waiting for element to be clickable: By.xpath: //a[text()='Logout'] (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.165, chrome: {chromedriverVersion: 134.0.6998.165 (fd886e2cb29..., userDataDir: C:\Users\acer\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53732}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53732/devtoo..., se:cdpVersion: 134.0.6998.165, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 00d83a9e81ce553d57160da76674774e
+2025-03-23 02:01:50 [main] ERROR ActionDriver - Unable to click element :- no such element: Unable to locate element: {"method":"xpath","selector":"//a[text()='Logout']"}
+  (Session info: chrome=134.0.6998.165)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [00d83a9e81ce553d57160da76674774e, findElement {value=//a[text()='Logout'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.165, chrome: {chromedriverVersion: 134.0.6998.165 (fd886e2cb29..., userDataDir: C:\Users\acer\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53732}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53732/devtoo..., se:cdpVersion: 134.0.6998.165, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 00d83a9e81ce553d57160da76674774e
+2025-03-23 02:02:03 [main] ERROR BaseClass - This is a Error Message
+2025-03-23 02:03:31 [main] ERROR BaseClass - This is a Error Message
+2025-03-23 02:03:45 [main] ERROR BaseClass - This is a Error Message
+2025-03-23 02:04:08 [main] ERROR ActionDriver - Element is not clickable :- Expected condition failed: waiting for element to be clickable: By.xpath: //span[@class='oxd-userdropdown-tab'] (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.165, chrome: {chromedriverVersion: 134.0.6998.165 (fd886e2cb29..., userDataDir: C:\Users\acer\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53836}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53836/devtoo..., se:cdpVersion: 134.0.6998.165, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: df5c089e783644caa2bea94f85ff60b6
+2025-03-23 02:04:18 [main] ERROR ActionDriver - Unable to click element :- no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='oxd-userdropdown-tab']"}
+  (Session info: chrome=134.0.6998.165)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [df5c089e783644caa2bea94f85ff60b6, findElement {value=//span[@class='oxd-userdropdown-tab'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.165, chrome: {chromedriverVersion: 134.0.6998.165 (fd886e2cb29..., userDataDir: C:\Users\acer\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53836}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53836/devtoo..., se:cdpVersion: 134.0.6998.165, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: df5c089e783644caa2bea94f85ff60b6
+2025-03-23 02:04:47 [main] ERROR BaseClass - This is a Error Message
+2025-03-23 02:05:02 [main] ERROR BaseClass - This is a Error Message
+2025-03-23 02:05:40 [main] ERROR BaseClass - This is a Error Message
+2025-03-23 02:05:54 [main] ERROR BaseClass - This is a Error Message
+2025-03-23 02:06:10 [main] ERROR BaseClass - This is a Error Message
+2025-03-23 02:07:21 [main] ERROR BaseClass - This is a Error Message
+2025-03-23 02:07:36 [main] ERROR BaseClass - This is a Error Message
+2025-03-23 02:07:51 [main] ERROR BaseClass - This is a Error Message
+2025-03-23 12:46:32 [main] ERROR BaseClass - This is a Error Message
+2025-03-23 12:48:31 [main] ERROR BaseClass - This is a Error Message
+2025-03-23 12:48:53 [main] ERROR ActionDriver - Element is not clickable :- Expected condition failed: waiting for element to be clickable: By.xpath: //p[contains(.,'Forgot your password')] (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.165, chrome: {chromedriverVersion: 134.0.6998.165 (fd886e2cb29..., userDataDir: C:\Users\acer\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56640}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56640/devtoo..., se:cdpVersion: 134.0.6998.165, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 684ddb5ef21b69c5b5ca145b3b979896
+2025-03-23 12:49:53 [main] ERROR BaseClass - This is a Error Message
+2025-03-23 12:50:24 [main] ERROR BaseClass - This is a Error Message
+2025-03-23 12:50:38 [main] ERROR BaseClass - This is a Error Message
+2025-03-23 12:57:05 [main] ERROR BaseClass - This is a Error Message
+2025-03-23 12:57:53 [main] ERROR BaseClass - This is a Error Message
+2025-03-23 12:58:01 [main] ERROR BaseClass - This is a Error Message
+2025-03-23 12:58:10 [main] ERROR BaseClass - This is a Error Message
+2025-03-23 12:58:26 [main] ERROR BaseClass - This is a Error Message
+2025-03-23 12:58:40 [main] ERROR BaseClass - This is a Error Message
+2025-03-23 13:00:38 [main] ERROR BaseClass - This is a Error Message
+2025-03-23 13:00:47 [main] ERROR BaseClass - This is a Error Message
+2025-03-23 13:00:55 [main] ERROR BaseClass - This is a Error Message
+2025-03-23 13:01:12 [main] ERROR BaseClass - This is a Error Message
+2025-03-23 13:01:25 [main] ERROR BaseClass - This is a Error Message
+2025-03-23 13:08:35 [main] ERROR BaseClass - This is a Error Message
+2025-03-23 13:08:43 [main] ERROR BaseClass - This is a Error Message
+2025-03-23 13:08:52 [main] ERROR BaseClass - This is a Error Message
+2025-03-23 13:09:07 [main] ERROR BaseClass - This is a Error Message
+2025-03-23 13:09:20 [main] ERROR BaseClass - This is a Error Message
+2025-03-23 13:11:10 [main] ERROR BaseClass - This is a Error Message
+2025-03-23 13:11:18 [main] ERROR BaseClass - This is a Error Message
+2025-03-23 13:11:27 [main] ERROR BaseClass - This is a Error Message
+2025-03-23 13:11:42 [main] ERROR BaseClass - This is a Error Message
+2025-03-23 13:11:55 [main] ERROR BaseClass - This is a Error Message
+2025-03-23 13:12:39 [main] ERROR BaseClass - This is a Error Message
+2025-03-23 13:12:47 [main] ERROR BaseClass - This is a Error Message
+2025-03-23 13:12:56 [main] ERROR BaseClass - This is a Error Message
+2025-03-23 13:13:11 [main] ERROR BaseClass - This is a Error Message
+2025-03-23 13:13:26 [main] ERROR BaseClass - This is a Error Message
