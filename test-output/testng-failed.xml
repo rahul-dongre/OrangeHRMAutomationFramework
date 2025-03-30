@@ -5,11 +5,11 @@
     <classes>
       <class name="com.orangeHRMFramework.test.LoginPageTest">
         <methods>
+          <include name="validLoginTest"/>
           <include name="setup"/>
           <include name="tearDown"/>
           <include name="loadConfig"/>
           <include name="beforeTestMethod"/>
-          <include name="forgotCancel"/>
         </methods>
       </class> <!-- com.orangeHRMFramework.test.LoginPageTest -->
     </classes>

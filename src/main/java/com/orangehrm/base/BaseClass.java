@@ -153,7 +153,8 @@ public class BaseClass {
 	}
 
 	// static wait for pause
-	public void staticWait(int seconds) {
+	public void staticWait(int seconds) throws InterruptedException {
 		LockSupport.parkNanos(TimeUnit.SECONDS.toNanos(seconds));
+//		 TimeUnit.SECONDS.sleep(seconds);
 	}
 }

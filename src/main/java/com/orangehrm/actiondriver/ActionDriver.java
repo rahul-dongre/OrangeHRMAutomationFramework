@@ -8,6 +8,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.PageFactory;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.Select;
 import org.openqa.selenium.support.ui.WebDriverWait;
@@ -30,10 +31,10 @@ public class ActionDriver {
 	}
 
 	// Method to click an element
-	public void click(By by) {
+	public void click(WebElement element) {
 		try {
-			waitForElementToBeClickable(by);
-			driver.findElement(by).click();
+//			waitForElementToBeClickable(by);
+			element.click();
 			logger.info("Clicked an element");
 		} catch (Exception e) {
 			logger.error("Unable to click element :- " + e.getMessage());
@@ -41,10 +42,11 @@ public class ActionDriver {
 		}
 	}
 	
-	public void clearField(By by) {
+	public void clearField(WebElement element) {
+		
 		try {
-			waitForElementToBeVisible(by);
-			driver.findElement(by).clear();
+			waitForElementToBeVisible(element);                                   
+			element.clear();
 		} catch (Exception e) {
 			// TODO Auto-generated catch block
 			logger.error("Unable to clear text fields" + e.getMessage());
@@ -53,10 +55,10 @@ public class ActionDriver {
 
 	// method to enter text into a input text field --> to avoid code duplicacy and
 	// fixed the multiple call
-	public void enterText(By by, String value) {
+	public void enterText(WebElement element, String value) {
 		try {
-			waitForElementToBeVisible(by);
-			WebElement element = driver.findElement(by);
+//			waitForElementToBeVisible(element);
+//			WebElement element = driver.findElement(by);
 			logger.info("Entered text :" + value);
 //			driver.findElement(by).clear();
 //			driver.findElement(by).sendKeys(value);
@@ -69,10 +71,10 @@ public class ActionDriver {
 	}
 
 	// method to get text from an input field
-	public String getText(By by) {
+	public String getText(WebElement element) {
 		try {
-			waitForElementToBeVisible(by);
-			return driver.findElement(by).getText();
+			waitForElementToBeVisible(element);
+			return element.getText();
 		} catch (Exception e) {
 
 			logger.error("Element is not clickable :- " + e.getMessage());
@@ -81,10 +83,10 @@ public class ActionDriver {
 	}
 
 	// method to compare two text
-	public void compareText(By by, String expectedText) {
+	public void compareText(WebElement element, String expectedText) {
 		try {
-			waitForElementToBeVisible(by);
-			String actualText = driver.findElement(by).getText();
+			waitForElementToBeVisible(element);
+			String actualText = element.getText();
 
 			if (expectedText.equals(actualText)) {
 				logger.info("Texts are matching : " + actualText + " equals " + expectedText);
@@ -97,10 +99,10 @@ public class ActionDriver {
 	}
 
 	// get text from an input field
-	public String getInputText(By by) {
+	public String getInputText(WebElement element) {
 		try {
-			waitForElementToBeVisible(by);
-			WebElement element = driver.findElement(by);
+			waitForElementToBeVisible(element);
+//			WebElement element = driver.findElement(by);
 
 			JavascriptExecutor js = (JavascriptExecutor) driver;
 			String value = (String) js.executeScript("return arguments[0].value;", element);
@@ -126,11 +128,11 @@ public class ActionDriver {
 	}
 
 	// method to check if an element is displayed
-	public boolean isDisplayed(By by) {
+	public boolean isDisplayed(WebElement element) {
 		try {
-			waitForElementToBeVisible(by);
+			waitForElementToBeVisible(element);
 
-			return driver.findElement(by).isDisplayed();
+			return element.isDisplayed();
 
 		} catch (Exception e) {
 			logger.error("Element is not displayed :- " + e.getMessage());
@@ -172,9 +174,9 @@ public class ActionDriver {
 //	}
 
 	// wait for element to be visible
-	public void waitForElementToBeVisible(By by) {
+	public void waitForElementToBeVisible(WebElement element) {
 		try {
-			wait.until(ExpectedConditions.visibilityOfElementLocated(by));
+			wait.until(ExpectedConditions.visibilityOfElementLocated((By) element));
 		} catch (Exception e) {
 			logger.error("Element is not visible :- " + e.getMessage());
 		}

@@ -20,27 +20,27 @@ public class LoginPageTest extends BaseClass {
 
 	@BeforeMethod
 	public void beforeTestMethod() throws IOException {
-		loginPage = new LoginPage();
-		homePage = new HomePage();
-		forgotPass = new ForgotPasswordPage();
+		loginPage = new LoginPage(driver);
+		homePage = new HomePage(driver);
+		forgotPass = new ForgotPasswordPage(driver);
 	}
 
 	@Test(priority = 0, alwaysRun = true)
-	public void invalidLoginTest() throws IOException {
+	public void invalidLoginTest() throws IOException, InterruptedException {
 
 		loginPage.negativeLoginTest("Invalid credentials");
 		staticWait(5);
 	}
 
 	@Test(priority = 1, alwaysRun = true)
-	public void validLoginTest() throws IOException {
+	public void validLoginTest() throws IOException, InterruptedException {
 		loginPage.login("Admin", "admin123");
-		homePage.logout();
+//		homePage.logout();
 		staticWait(5);
 	}
 
 	@Test()
-	public void homePageTest() throws IOException {
+	public void homePageTest() throws IOException, InterruptedException {
 		loginPage.login("Admin", "admin123");
 		Assert.assertTrue(homePage.isAdminTabVisible(), "Admin tab should be visible when successful login");
 		homePage.verifyOrangeHrmLogo();
