@@ -130,3 +130,11 @@ Session ID: 684ddb5ef21b69c5b5ca145b3b979896
 2025-03-31 03:14:00 [main] ERROR ActionDriver - Element is not visible :- class jdk.proxy2.$Proxy28 cannot be cast to class org.openqa.selenium.By (jdk.proxy2.$Proxy28 is in module jdk.proxy2 of loader 'app'; org.openqa.selenium.By is in unnamed module of loader 'app')
 2025-03-31 03:14:13 [main] ERROR BaseClass - This is a Error Message
 2025-03-31 03:14:13 [main] ERROR ActionDriver - Element is not visible :- class jdk.proxy2.$Proxy28 cannot be cast to class org.openqa.selenium.By (jdk.proxy2.$Proxy28 is in module jdk.proxy2 of loader 'app'; org.openqa.selenium.By is in unnamed module of loader 'app')
+2025-03-31 03:17:54 [main] ERROR BaseClass - This is a Error Message
+2025-03-31 03:17:54 [main] ERROR ActionDriver - Element is not visible :- Locator must be set
+2025-03-31 03:17:54 [main] ERROR ActionDriver - Unable to clear text fieldsCannot invoke "org.openqa.selenium.WebElement.clear()" because "element" is null
+2025-03-31 03:17:54 [main] ERROR ActionDriver - Unable to enter the value :- Admin Cannot invoke "org.openqa.selenium.WebElement.clear()" because "element" is null
+2025-03-31 03:17:54 [main] ERROR ActionDriver - Unable to enter the value :- admin123 Cannot invoke "org.openqa.selenium.WebElement.clear()" because "element" is null
+2025-03-31 03:17:54 [main] ERROR ActionDriver - Unable to click element :- Cannot invoke "org.openqa.selenium.WebElement.click()" because "element" is null
+2025-03-31 03:38:29 [main] ERROR BaseClass - This is a Error Message
+2025-03-31 03:38:29 [main] ERROR ActionDriver - Element is not visible :- class jdk.proxy2.$Proxy28 cannot be cast to class org.openqa.selenium.By (jdk.proxy2.$Proxy28 is in module jdk.proxy2 of loader 'app'; org.openqa.selenium.By is in unnamed module of loader 'app')

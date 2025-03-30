@@ -2,6 +2,8 @@ package com.orangehrm.actiondriver;
 
 import java.io.IOException;
 import java.time.Duration;
+import java.util.Base64;
+import java.util.Base64.Encoder;
 
 import org.apache.logging.log4j.core.Logger;
 import org.openqa.selenium.By;
@@ -41,11 +43,11 @@ public class ActionDriver {
 //			logger.error("Unable to click element");
 		}
 	}
-	
+
 	public void clearField(WebElement element) {
-		
+
 		try {
-			waitForElementToBeVisible(element);                                   
+			waitForElementToBeVisible(element);
 			element.clear();
 		} catch (Exception e) {
 			// TODO Auto-generated catch block
@@ -66,7 +68,7 @@ public class ActionDriver {
 			element.sendKeys(value);
 		} catch (Exception e) {
 			logger.error("Unable to enter the value :- " + value + " " + e.getMessage());
-			
+
 		}
 	}
 
@@ -187,4 +189,10 @@ public class ActionDriver {
 		return crntUrl;
 	}
 
+//encrypted password
+	public String encPassword() {
+		byte[] encPass = Base64.getDecoder().decode("YWRtaW4xMjM=");
+		String pass = new String(encPass);
+		return pass;
+	}
 }

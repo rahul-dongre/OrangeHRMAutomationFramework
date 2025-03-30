@@ -884,3 +884,30 @@
 2025-03-31 03:14:14 [main] INFO  ActionDriver - Clicked an element
 2025-03-31 03:14:19 [main] INFO  BaseClass - ActionDriver instance is closed
 2025-03-31 03:14:19 [main] INFO  BaseClass - WebDriver instance is closed
+2025-03-31 03:17:45 [main] INFO  BaseClass - config.properties file loaded
+2025-03-31 03:17:48 [main] INFO  BaseClass - ChromeDriver initiated is created
+2025-03-31 03:17:54 [main] INFO  BaseClass - WebDriver initialozed and browser maximized
+2025-03-31 03:17:54 [main] INFO  ActionDriver - WebDriver instance is created
+2025-03-31 03:17:54 [main] INFO  BaseClass - ActionDriver instance is created
+2025-03-31 03:17:54 [main] TRACE BaseClass - This is a Trace Message
+2025-03-31 03:17:54 [main] DEBUG BaseClass - This is a Debug Message
+2025-03-31 03:17:54 [main] WARN  BaseClass - This is a Warn Message
+2025-03-31 03:17:54 [main] INFO  ActionDriver - Entered text :Admin
+2025-03-31 03:17:54 [main] INFO  ActionDriver - Entered text :admin123
+2025-03-31 03:18:00 [main] INFO  BaseClass - ActionDriver instance is closed
+2025-03-31 03:18:00 [main] INFO  BaseClass - WebDriver instance is closed
+2025-03-31 03:38:17 [main] INFO  BaseClass - config.properties file loaded
+2025-03-31 03:38:23 [main] INFO  BaseClass - ChromeDriver initiated is created
+2025-03-31 03:38:29 [main] INFO  BaseClass - WebDriver initialozed and browser maximized
+2025-03-31 03:38:29 [main] INFO  ActionDriver - WebDriver instance is created
+2025-03-31 03:38:29 [main] INFO  BaseClass - ActionDriver instance is created
+2025-03-31 03:38:29 [main] TRACE BaseClass - This is a Trace Message
+2025-03-31 03:38:29 [main] DEBUG BaseClass - This is a Debug Message
+2025-03-31 03:38:29 [main] WARN  BaseClass - This is a Warn Message
+2025-03-31 03:38:29 [main] INFO  ActionDriver - Entered text :Admin
+2025-03-31 03:38:30 [main] INFO  ActionDriver - Entered text :admin123
+2025-03-31 03:38:31 [main] INFO  ActionDriver - Clicked an element
+2025-03-31 03:38:32 [main] INFO  ActionDriver - Clicked an element
+2025-03-31 03:38:34 [main] INFO  ActionDriver - Clicked an element
+2025-03-31 03:38:41 [main] INFO  BaseClass - ActionDriver instance is closed
+2025-03-31 03:38:41 [main] INFO  BaseClass - WebDriver instance is closed

@@ -34,14 +34,14 @@ public class LoginPageTest extends BaseClass {
 
 	@Test(priority = 1, alwaysRun = true)
 	public void validLoginTest() throws IOException, InterruptedException {
-		loginPage.login("Admin", "admin123");
-//		homePage.logout();
+		loginPage.login("Admin");
+		homePage.logout();
 		staticWait(5);
 	}
 
 	@Test()
 	public void homePageTest() throws IOException, InterruptedException {
-		loginPage.login("Admin", "admin123");
+		loginPage.login("Admin");
 		Assert.assertTrue(homePage.isAdminTabVisible(), "Admin tab should be visible when successful login");
 		homePage.verifyOrangeHrmLogo();
 		homePage.logout();

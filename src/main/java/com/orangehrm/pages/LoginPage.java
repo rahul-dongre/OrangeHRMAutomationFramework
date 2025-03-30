@@ -44,11 +44,11 @@ public class LoginPage {
 	}
 
 	// login method
-	public void login(String username, String password) {
+	public void login(String username) {
 		
 		actionDriver.clearField(this.username);
 		actionDriver.enterText(this.username, username);
-		actionDriver.enterText(this.password, password);
+		actionDriver.enterText(this.password, actionDriver.encPassword());
 		actionDriver.click(loginBtn);
 		
 	}
@@ -71,7 +71,7 @@ public class LoginPage {
 
 	// negative login
 	public void negativeLoginTest(String expectedError) {
-		login("Holi", "Holika");
+		login("Holi");
 		isMsgDisplayed();
 		getErrorMsg();
 		Assert.assertEquals(getErrorMsg(), expectedError, "Assert fails as error message is not same");
