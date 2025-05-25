@@ -26,7 +26,8 @@ public class ExtentManager {
 		if (extent == null) {
 			String reportPath = System.getProperty("user.dir") + "/src/main/resources/ExtentReport/ExtentReports.html";
 			System.err.println(reportPath);
-			ExtentSparkReporter spark = new ExtentSparkReporter(reportPath); // generates contents in extent reports
+			String timeStamp = new SimpleDateFormat("yyyyMMdd_HHmmss").format(new Date());
+			ExtentSparkReporter spark = new ExtentSparkReporter(reportPath+"_"+timeStamp); // generates contents in extent reports
 			spark.config().setReportName("Automation Report");
 			spark.config().setDocumentTitle("OrangeHRM Report");
 			spark.config().setTheme(Theme.DARK);

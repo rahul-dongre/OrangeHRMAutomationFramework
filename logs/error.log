@@ -652,3 +652,43 @@ Session ID: f288ab38774038a4dc7620ea0c4108a0
 2025-05-25 17:29:36 [TestNG-test=OrangeHRMTest-1] ERROR BaseClass - This is a Error Message
 2025-05-25 17:29:36 [TestNG-test=OrangeHRMTest-1] FATAL BaseClass - This is a Fatal Message
 2025-05-25 17:29:36 [TestNG-test=OrangeHRMTest-1] ERROR ActionDriver - Element is not visible :- class jdk.proxy2.$Proxy29 cannot be cast to class org.openqa.selenium.By (jdk.proxy2.$Proxy29 is in module jdk.proxy2 of loader 'app'; org.openqa.selenium.By is in unnamed module of loader 'app')
+2025-05-25 19:34:51 [TestNG-test=OrangeHRMTest-2] ERROR BaseClass - This is a Error Message
+2025-05-25 19:34:51 [TestNG-test=OrangeHRMTest-2] FATAL BaseClass - This is a Fatal Message
+2025-05-25 19:34:51 [TestNG-test=OrangeHRMTest-2] ERROR ActionDriver - Element is not visible :- class jdk.proxy2.$Proxy29 cannot be cast to class org.openqa.selenium.By (jdk.proxy2.$Proxy29 is in module jdk.proxy2 of loader 'app'; org.openqa.selenium.By is in unnamed module of loader 'app')
+2025-05-25 19:34:52 [TestNG-test=OrangeHRMTest-1] ERROR BaseClass - This is a Error Message
+2025-05-25 19:34:52 [TestNG-test=OrangeHRMTest-1] FATAL BaseClass - This is a Fatal Message
+2025-05-25 19:34:52 [TestNG-test=OrangeHRMTest-2] ERROR ActionDriver - Element is not visible :- class jdk.proxy2.$Proxy29 cannot be cast to class org.openqa.selenium.By (jdk.proxy2.$Proxy29 is in module jdk.proxy2 of loader 'app'; org.openqa.selenium.By is in unnamed module of loader 'app')
+2025-05-25 19:34:53 [TestNG-test=OrangeHRMTest-2] ERROR ActionDriver - Element is not visible :- class jdk.proxy2.$Proxy29 cannot be cast to class org.openqa.selenium.By (jdk.proxy2.$Proxy29 is in module jdk.proxy2 of loader 'app'; org.openqa.selenium.By is in unnamed module of loader 'app')
+2025-05-25 19:35:03 [TestNG-test=OrangeHRMTest-1] ERROR BaseClass - This is a Error Message
+2025-05-25 19:35:03 [TestNG-test=OrangeHRMTest-1] FATAL BaseClass - This is a Fatal Message
+2025-05-25 19:35:05 [TestNG-test=OrangeHRMTest-1] ERROR ActionDriver - Element is not visible :- class jdk.proxy2.$Proxy29 cannot be cast to class org.openqa.selenium.By (jdk.proxy2.$Proxy29 is in module jdk.proxy2 of loader 'app'; org.openqa.selenium.By is in unnamed module of loader 'app')
+2025-05-25 19:35:13 [TestNG-test=OrangeHRMTest-1] ERROR BaseClass - This is a Error Message
+2025-05-25 19:35:13 [TestNG-test=OrangeHRMTest-1] FATAL BaseClass - This is a Fatal Message
+2025-05-25 19:35:13 [TestNG-test=OrangeHRMTest-1] ERROR ActionDriver - Element is not visible :- class jdk.proxy2.$Proxy29 cannot be cast to class org.openqa.selenium.By (jdk.proxy2.$Proxy29 is in module jdk.proxy2 of loader 'app'; org.openqa.selenium.By is in unnamed module of loader 'app')
+2025-05-25 19:35:14 [TestNG-test=OrangeHRMTest-1] ERROR ActionDriver - Element is not visible :- class jdk.proxy2.$Proxy29 cannot be cast to class org.openqa.selenium.By (jdk.proxy2.$Proxy29 is in module jdk.proxy2 of loader 'app'; org.openqa.selenium.By is in unnamed module of loader 'app')
+2025-05-25 19:35:15 [TestNG-test=OrangeHRMTest-1] ERROR ActionDriver - Element is not visible :- class jdk.proxy2.$Proxy29 cannot be cast to class org.openqa.selenium.By (jdk.proxy2.$Proxy29 is in module jdk.proxy2 of loader 'app'; org.openqa.selenium.By is in unnamed module of loader 'app')
+2025-05-25 19:35:15 [TestNG-test=OrangeHRMTest-1] ERROR ActionDriver - Element is not visible :- class jdk.proxy2.$Proxy29 cannot be cast to class org.openqa.selenium.By (jdk.proxy2.$Proxy29 is in module jdk.proxy2 of loader 'app'; org.openqa.selenium.By is in unnamed module of loader 'app')
+2025-05-25 19:35:15 [TestNG-test=OrangeHRMTest-1] ERROR ActionDriver - Element is not visible :- class jdk.proxy2.$Proxy29 cannot be cast to class org.openqa.selenium.By (jdk.proxy2.$Proxy29 is in module jdk.proxy2 of loader 'app'; org.openqa.selenium.By is in unnamed module of loader 'app')
+2025-05-25 19:35:28 [TestNG-test=OrangeHRMTest-1] ERROR BaseClass - This is a Error Message
+2025-05-25 19:35:28 [TestNG-test=OrangeHRMTest-1] FATAL BaseClass - This is a Fatal Message
+2025-05-25 19:35:28 [TestNG-test=OrangeHRMTest-1] ERROR ActionDriver - Element is not visible :- class jdk.proxy2.$Proxy29 cannot be cast to class org.openqa.selenium.By (jdk.proxy2.$Proxy29 is in module jdk.proxy2 of loader 'app'; org.openqa.selenium.By is in unnamed module of loader 'app')
+2025-05-25 19:37:49 [main] ERROR BaseClass - This is a Error Message
+2025-05-25 19:37:49 [main] FATAL BaseClass - This is a Fatal Message
+2025-05-25 19:37:49 [main] ERROR ActionDriver - Element is not visible :- class jdk.proxy2.$Proxy25 cannot be cast to class org.openqa.selenium.By (jdk.proxy2.$Proxy25 is in module jdk.proxy2 of loader 'app'; org.openqa.selenium.By is in unnamed module of loader 'app')
+2025-05-25 19:37:51 [main] ERROR ActionDriver - Element is not visible :- class jdk.proxy2.$Proxy25 cannot be cast to class org.openqa.selenium.By (jdk.proxy2.$Proxy25 is in module jdk.proxy2 of loader 'app'; org.openqa.selenium.By is in unnamed module of loader 'app')
+2025-05-25 19:37:51 [main] ERROR ActionDriver - Element is not visible :- class jdk.proxy2.$Proxy25 cannot be cast to class org.openqa.selenium.By (jdk.proxy2.$Proxy25 is in module jdk.proxy2 of loader 'app'; org.openqa.selenium.By is in unnamed module of loader 'app')
+2025-05-25 19:38:06 [main] ERROR BaseClass - This is a Error Message
+2025-05-25 19:38:06 [main] FATAL BaseClass - This is a Fatal Message
+2025-05-25 19:38:14 [main] ERROR BaseClass - This is a Error Message
+2025-05-25 19:38:14 [main] FATAL BaseClass - This is a Fatal Message
+2025-05-25 19:38:15 [main] ERROR ActionDriver - Element is not visible :- class jdk.proxy2.$Proxy25 cannot be cast to class org.openqa.selenium.By (jdk.proxy2.$Proxy25 is in module jdk.proxy2 of loader 'app'; org.openqa.selenium.By is in unnamed module of loader 'app')
+2025-05-25 19:38:24 [main] ERROR BaseClass - This is a Error Message
+2025-05-25 19:38:24 [main] FATAL BaseClass - This is a Fatal Message
+2025-05-25 19:38:24 [main] ERROR ActionDriver - Element is not visible :- class jdk.proxy2.$Proxy25 cannot be cast to class org.openqa.selenium.By (jdk.proxy2.$Proxy25 is in module jdk.proxy2 of loader 'app'; org.openqa.selenium.By is in unnamed module of loader 'app')
+2025-05-25 19:38:25 [main] ERROR ActionDriver - Element is not visible :- class jdk.proxy2.$Proxy25 cannot be cast to class org.openqa.selenium.By (jdk.proxy2.$Proxy25 is in module jdk.proxy2 of loader 'app'; org.openqa.selenium.By is in unnamed module of loader 'app')
+2025-05-25 19:38:25 [main] ERROR ActionDriver - Element is not visible :- class jdk.proxy2.$Proxy25 cannot be cast to class org.openqa.selenium.By (jdk.proxy2.$Proxy25 is in module jdk.proxy2 of loader 'app'; org.openqa.selenium.By is in unnamed module of loader 'app')
+2025-05-25 19:38:25 [main] ERROR ActionDriver - Element is not visible :- class jdk.proxy2.$Proxy25 cannot be cast to class org.openqa.selenium.By (jdk.proxy2.$Proxy25 is in module jdk.proxy2 of loader 'app'; org.openqa.selenium.By is in unnamed module of loader 'app')
+2025-05-25 19:38:25 [main] ERROR ActionDriver - Element is not visible :- class jdk.proxy2.$Proxy25 cannot be cast to class org.openqa.selenium.By (jdk.proxy2.$Proxy25 is in module jdk.proxy2 of loader 'app'; org.openqa.selenium.By is in unnamed module of loader 'app')
+2025-05-25 19:38:37 [main] ERROR BaseClass - This is a Error Message
+2025-05-25 19:38:37 [main] FATAL BaseClass - This is a Fatal Message
+2025-05-25 19:38:37 [main] ERROR ActionDriver - Element is not visible :- class jdk.proxy2.$Proxy25 cannot be cast to class org.openqa.selenium.By (jdk.proxy2.$Proxy25 is in module jdk.proxy2 of loader 'app'; org.openqa.selenium.By is in unnamed module of loader 'app')
