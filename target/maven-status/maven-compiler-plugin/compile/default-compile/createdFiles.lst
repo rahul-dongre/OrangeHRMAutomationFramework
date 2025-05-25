@@ -1,0 +1,9 @@
+com\orangehrm\commons\Commons.class
+com\orangehrm\utilities\LoggerManager.class
+com\orangehrm\pages\HomePage.class
+com\orangehrm\pages\LoginPage.class
+com\orangehrm\pages\ForgotPasswordPage.class
+com\orangehrm\actiondriver\ActionDriver.class
+com\orangehrm\listeners\TestListener.class
+com\orangehrm\base\BaseClass.class
+com\orangehrm\utilities\ExtentManager.class
