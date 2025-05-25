@@ -17,6 +17,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.Assert;
 
 import com.orangehrm.base.BaseClass;
+import com.orangehrm.utilities.ExtentManager;
 
 public class ActionDriver {
 
@@ -37,6 +38,7 @@ public class ActionDriver {
 		try {
 //			waitForElementToBeClickable(by);
 			element.click();
+			ExtentManager.logStep("Clicked an element ");
 			logger.info("Clicked an element");
 		} catch (Exception e) {
 			logger.error("Unable to click element :- " + e.getMessage());
@@ -85,19 +87,27 @@ public class ActionDriver {
 	}
 
 	// method to compare two text
-	public void compareText(WebElement element, String expectedText) {
+	public boolean compareText(WebElement element, String expectedText) {
 		try {
 			waitForElementToBeVisible(element);
 			String actualText = element.getText();
 
 			if (expectedText.equals(actualText)) {
 				logger.info("Texts are matching : " + actualText + " equals " + expectedText);
+				ExtentManager.logStepWithScreenshot(BaseClass.getDriver(), "Compare Text",
+						"Text Varified Successfully! " + actualText + " equals " + expectedText);
+				return true;
 			} else {
 				logger.info("Texts are not matching : " + actualText + " not equals " + expectedText);
+				ExtentManager.logFailure(BaseClass.getDriver(), "Compare Text",
+						"Text Comparison Failed! " + actualText + " equals " + expectedText);
+				return false;
 			}
 		} catch (Exception e) {
 			logger.error("Unable to compare text :- " + e.getMessage());
+
 		}
+		return false;
 	}
 
 	// get text from an input field

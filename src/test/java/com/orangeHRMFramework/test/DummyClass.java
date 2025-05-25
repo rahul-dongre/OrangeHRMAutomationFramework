@@ -10,6 +10,6 @@ public class DummyClass extends BaseClass {
 	@Test
 	public void test() {
 
-		Assert.assertEquals(driver.getTitle(), "OrangeHRM",  "Title is different");
+		Assert.assertEquals(getDriver().getTitle(), "OrangeHRM",  "Title is different");
 	}
 }

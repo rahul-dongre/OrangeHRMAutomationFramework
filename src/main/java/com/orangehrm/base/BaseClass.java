@@ -17,13 +17,17 @@ import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.BeforeSuite;
 
 import com.orangehrm.actiondriver.ActionDriver;
+import com.orangehrm.utilities.ExtentManager;
 import com.orangehrm.utilities.LoggerManager;
 
 public class BaseClass {
 
 	protected static Properties prop;
-	protected static WebDriver driver;
-	private static ActionDriver actionDriver;
+//	protected static WebDriver driver;
+//	private static ActionDriver actionDriver;
+
+	private static ThreadLocal<WebDriver> driver = new ThreadLocal<>();
+	private static ThreadLocal<ActionDriver> actionDriver = new ThreadLocal<>();
 	public static final Logger logger = (Logger) LoggerManager.getLogger(BaseClass.class);
 
 	@BeforeSuite
@@ -34,49 +38,65 @@ public class BaseClass {
 		FileInputStream file = new FileInputStream("src/main/resources/config.properties");
 		prop.load(file);
 		logger.info("config.properties file loaded");
+
+		// start the extent report
+//		ExtentManager.getReporter();//this has been implemented in TestListener class
 	}
 
 	@BeforeMethod
-	public void setup() throws Exception {
+	public synchronized void setup() throws Exception {
 
 		// printing method name
-		System.out.println(this.getClass().getSimpleName());
+		System.out.println("Setting the WebDriver for : " + this.getClass().getSimpleName());
 
 		// Calling method for browser launch and browser setup
 		launchBrowser();
 		configureBrowser();
 		staticWait(2);
 		logger.info("WebDriver initialozed and browser maximized");
-		// initialize action driver only once
-		if (actionDriver == null) {
-			actionDriver = new ActionDriver(driver);
-			logger.info("ActionDriver instance is created");
-			logger.trace("This is a Trace Message");
-			logger.error("This is a Error Message");
-			logger.debug("This is a Debug Message");
-			logger.warn("This is a Warn Message");
-		}
+		logger.trace("This is a Trace Message");
+		logger.error("This is a Error Message");
+		logger.debug("This is a Debug Message");
+		logger.fatal("This is a Fatal Message");
+		logger.warn("This is a Warn Message");
+
+		/*
+		 * // initialize action driver only once if (actionDriver == null) {
+		 * actionDriver = new ActionDriver(driver);
+		 * logger.info("ActionDriver instance is created "+Thread.currentThread().getId(
+		 * )); }
+		 */
+
+		// initialize action driver for the current thread
+		actionDriver.set(new ActionDriver(driver.get()));
+		logger.info("ActionDrive initialized for current thread :" + Thread.currentThread().getId());
+		// initialize the browser based on the browser provided into confi.properties
+		// file
 	}
 
-	// initialize the browser based on the browser provided into confi.properties
-	// file
-	private void launchBrowser() {
+	private synchronized void launchBrowser() {
 
 		String browser = prop.getProperty("browser");
 
 		switch (browser.toLowerCase()) {
 		case "chrome":
-			driver = new ChromeDriver();
+			// driver = new ChromeDriver();
+			driver.set(new ChromeDriver());
+			ExtentManager.registerDriver(getDriver());
 			logger.info("ChromeDriver initiated is created");
 			break;
 
 		case "edge":
-			driver = new EdgeDriver();
+//			driver = new EdgeDriver();
+			driver.set(new EdgeDriver());
+			ExtentManager.registerDriver(getDriver());
 			logger.info("EdgeDriver initiated is created");
 			break;
 
 		case "firefox":
-			driver = new FirefoxDriver();
+//			driver = new FirefoxDriver();
+			driver.set(new FirefoxDriver());
+			ExtentManager.registerDriver(getDriver());
 			logger.info("FirefoxDriver initiated is created");
 			break;
 
@@ -91,32 +111,38 @@ public class BaseClass {
 
 		// Navigate to the url
 		try {
-			driver.get(prop.getProperty("url"));
+			driver.get().get(prop.getProperty("url"));
 		} catch (Exception e) {
 			System.out.println("Failed to Navigate to the url :" + e.getMessage());
 		}
 
 		// maximizing window
-		driver.manage().window().maximize();
+		driver.get().manage().window().maximize();
 
 		// implicit wait of 10 seconds
 		int implicitWait = Integer.parseInt(prop.getProperty("implicitWait"));
-		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(implicitWait));
+		getDriver().manage().timeouts().implicitlyWait(Duration.ofSeconds(implicitWait));// driver.get() or getDriver()
+																							// both are same
 
 	}
 
 	@AfterMethod
-	public void tearDown() {
+	public synchronized void tearDown() {
 		try {
-			driver.quit();
+			driver.get().quit();
 		} catch (Exception e) {
 			System.out.println("Unable to quit the driver :" + e.getMessage());
 		}
 
-		driver = null;
-		actionDriver = null;
+//		driver = null;
+//		actionDriver = null;
+
+		driver.remove();
+		actionDriver.remove();
 		logger.info("ActionDriver instance is closed");
 		logger.info("WebDriver instance is closed");
+
+//		ExtentManager.endTest();//implemented in test listener class
 	}
 
 	public static Properties getProp() {
@@ -132,24 +158,24 @@ public class BaseClass {
 	// create ActionDriver instance multiple times
 
 	public static WebDriver getDriver() {
-		if (driver == null) {
+		if (driver.get() == null) {
 			System.out.println("WebDriver is not initialized");
 			throw new IllegalStateException("WebDriver is not initialized");
 		}
-		return driver;
+		return driver.get();
 	}
 
 //code to set the driver
-	public void setDriver(WebDriver driver) {
+	public void setDriver(ThreadLocal<WebDriver> driver) {
 		this.driver = driver;
 	}
 
 	public static ActionDriver getActionDriver() {
-		if (actionDriver == null) {
+		if (actionDriver.get() == null) {
 			System.out.println("ActionDriver is not initialized");
 			throw new IllegalStateException("ActionDriver is not initialized");
 		}
-		return actionDriver;
+		return actionDriver.get();
 	}
 
 	// static wait for pause
